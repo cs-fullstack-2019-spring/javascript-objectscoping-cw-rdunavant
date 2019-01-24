@@ -1,3 +1,5 @@
+## KEY - Seem to be on right track thought process-wise but this code does not run
+
 # JavaScript Object/Scope Classwork
 
 1. What is the result of the following code? Explain your answer.
